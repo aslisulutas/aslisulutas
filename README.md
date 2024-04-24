@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-🔭 I’m a software developer. <br>🌱 I’m currently learning React <br>💬 Ask me about Frontend Development
+🔭 I’m a software developer. <br>🌱 I’m currently learning React. <br>💬 Ask me about Frontend Development.
 
 
 ## 🌐 Socials:
