@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-🔭 I’m a software developer. <br>🌱I want to learn AI technologies. <br>🌱 I’m currently learning React.js. <br>💬 Ask me about Software Development. 
+🔭 I’m a software developer. <br>🌱I want to learn AI technologies. <br>💬 Ask me about Software Development. 
 
 
 ## 🌐 Socials:
