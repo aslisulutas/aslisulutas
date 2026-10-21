@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-🔭 I’m a software developer. <br>💬 Ask me about Software Development. <br>🌱I want to learn AI technologies. 
+🔭 I’m a software developer. <br>💬 Ask me about Software Development. <br>🌱I learn AI technologies. 
 
 
 ## 🌐 Socials:
