@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-🔭 I’m a software engineer. <br>💬 Ask me about Software Developing. <br>🌱Learn AI technologies. <br>🐍 Interested in Python programming and software development.
+🔭 I’m a software engineer. <br>💬 Ask me about software developing. <br>🌱Learn AI technologies. <br>🐍 Interested in Python programming and software development.
 
 
 ## 🌐 Socials:
