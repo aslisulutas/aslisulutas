@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-🔭 I’m a software engineer. <br>💬 Ask me about software developing. <br>🌱Learn AI technologies. <br>🐍 Interested in Python programming and software development. <br>💡 Building projects to strengthen my knowledge and gain hands-on experience. 
+🔭 I’m a computer and software engineer. <br>💬 Ask me about software developing. <br>🌱Learn AI technologies. <br>🐍 Interested in Python programming and software development. <br>💡 Building projects to strengthen my knowledge and gain hands-on experience. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aslisulutas/) 
