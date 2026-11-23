@@ -1,11 +1,12 @@
 # Hi there 👋
 # 💫 About Me:
-🔭 I’m a software engineer. <br>💬 Ask me about software developing and strategies. <br>🌱Learn AI technologies and methods . <br>🐍 Interested in Python programming and software development. <br>💡 Building projects to strengthen my knowledge and gain hands-on experience. 
+🔭 I’m a software engineer. <br>💬 Ask me about software developing and strategies. <br>🌱Learn AI technologies and methods <br>🐍 Interested in Python programming and software development. <br>💡 Building projects to strengthen my knowledge and gain hands-on experience. 
 
 # 💻 Tech Stack:
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aslisulutas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
