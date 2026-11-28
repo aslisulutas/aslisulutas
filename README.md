@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-🔭 I’m a software engineer. <br>💬 Ask me about software develop and strategies. <br>🌱Learn AI technologies and methods. <br>🐍 Interested in Python programming and software development. <br>💡 Build projects to strengthen my knowledge and gain hands-on experience. 
+🔭 I’m a software engineer. <br>💬 Ask me about software developing and strategies. <br>🌱Learn AI technologies and methods. <br>🐍 Interested in Python programming and software development. <br>💡 Build projects to strengthen my knowledge and gain hands-on experience. 
 
 # 💻 Tech Stack:
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
